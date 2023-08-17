@@ -1,0 +1,143 @@
+
+
+.navbar {
+    padding: 20px;
+    background-color: #f8f9fa;
+}
+
+
+.navbar-brand img {
+    max-width: 100px;
+    height: auto;
+}
+
+.navbar-nav .nav-link {
+    color: #000000;
+    font-weight: bold;
+    padding: 5px 10px;
+    font-family: 'Roboto', sans-serif;
+}
+
+.navbar-nav .nav-link:hover,
+.navbar-nav .nav-link:focus {
+    color: #00ff6e;
+}
+
+.navbar-nav {
+    margin-left: auto;
+}
+
+.font {
+    background-color: #75BF7A;
+    border-radius: 4px;
+}
+
+.font .nav-link {
+    color: #ffffff;
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@700&display=swap');
+
+card{
+    display: inline-block;
+    display: block;
+}
+
+#download .card{
+    position: relative;
+    top: 200px;
+    left: 100px;
+}
+
+#download h1{
+    font-family: 'Roboto', sans-serif;
+    font-weight:1000;
+}
+
+#download img{
+    float: left;
+}
+
+#download button{
+    width: 45%;
+}
+
+
+#download h6{
+    font-family: 'Roboto', sans-serif;
+
+}
+
+.journey{
+    width: 120%;
+    height: 500px;
+    position: relative;
+    top: -245px;
+    left: 700px;
+    display: block;
+}
+
+.navbar {
+    padding: 20px;
+    background-color: #f8f9fa;
+}
+
+
+.navbar-brand img {
+    max-width: 100px;
+    height: auto;
+}
+
+.navbar-nav .nav-link {
+    color: #000000;
+    font-weight: bold;
+    padding: 5px 10px;
+    font-family: 'Roboto', sans-serif;
+}
+
+.navbar-nav .nav-link:hover,
+.navbar-nav .nav-link:focus {
+    color: #00ff6e;
+}
+
+.navbar-nav {
+    margin-left: auto;
+}
+
+.font {
+    background-color: #75BF7A;
+    border-radius: 4px;
+}
+
+.font .nav-link {
+    color: #ffffff;
+}
+
+
+div{
+    display: inline-block;
+}
+
+section{
+    width: 120%;
+    height: 500px;
+    position: relative;
+    top: -80px;
+    left: 270px;
+    display: inline-block;
+    display: block;
+}
+
+.footer-card {
+    width: 100%;
+    background-color: #f8f9fa;
+    text-align: center;
+    padding: 20px;
+}
+
+.footer-images img {
+    max-width: 40px;
+    height: auto;
+    margin: 0 5px;
+}
+
